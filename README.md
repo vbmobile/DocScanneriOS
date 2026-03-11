@@ -1,1 +1,1 @@
-# DocScanneriOS
+# AMADocScanneriOS
