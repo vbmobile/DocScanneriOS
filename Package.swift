@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "docscanner_ios",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/DocScannerIOS/docscanner_ios.xcframework.zip",
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/DocScannerIOS/docscanner_ios.xcframework-4.1.10.zip",
             checksum: "037c420a32ec72cc8d1eaee4fafdfd5ec056e4b8b42d35ffb6f022df6b3bc428"
         ),
         .target(
